@@ -3,7 +3,9 @@ terraformのチュートリアルをAWSで試します
 
 ## 環境
 - macOS 13.6.3
-- Orbstack
+- Terraform v1.6.0 on darwin_arm64
+- Orbstack v1.1.0
+- aws-cli 2.15.0
 
 ## チュートリアル
 https://developer.hashicorp.com/terraform/tutorials/aws-get-started
