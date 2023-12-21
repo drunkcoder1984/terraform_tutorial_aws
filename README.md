@@ -33,4 +33,5 @@ https://developer.hashicorp.com/terraform/tutorials/aws-get-started/aws-outputs
 
 ### Step8: Remote state
 https://developer.hashicorp.com/terraform/tutorials/aws-get-started/aws-remote
+Terraform Cloudを使用するのでstep8は行わない
 
